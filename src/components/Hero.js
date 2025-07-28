@@ -45,7 +45,14 @@ export default function Hero() {
           </button>
 
           {/* Resume Button - Desktop */}
-          <a href="#" className="btn resume desktop-resume">Resume</a>
+          <a 
+            href="https://drive.google.com/file/d/1tf2ay1gwmWUxdoCVNFECCFGdRL_qZs-t/view?usp=sharing" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            className="btn resume desktop-resume"
+          >
+            Resume
+          </a>
         </nav>
 
         {/* Mobile Navigation Overlay */}
@@ -60,7 +67,15 @@ export default function Hero() {
               <li><a href="#education" onClick={closeMenu}>Education</a></li>
               <li><a href="#contact" onClick={closeMenu}>Contact</a></li>
             </ul>
-            <a href="#" className="btn resume mobile-resume" onClick={closeMenu}>Resume</a>
+            <a 
+              href="https://drive.google.com/file/d/1tf2ay1gwmWUxdoCVNFECCFGdRL_qZs-t/view?usp=sharing" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="btn resume mobile-resume" 
+              onClick={closeMenu}
+            >
+              Resume
+            </a>
           </div>
         </div>
       </header>
