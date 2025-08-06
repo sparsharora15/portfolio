@@ -46,7 +46,7 @@ export default function Hero() {
 
           {/* Resume Button - Desktop */}
           <a 
-            href="https://drive.google.com/file/d/1tf2ay1gwmWUxdoCVNFECCFGdRL_qZs-t/view?usp=sharing" 
+            href="https://drive.google.com/file/d/1o559yM82FpucR8gl0syKIJdhjqsHxtBW/view?usp=sharing" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="btn resume desktop-resume"
@@ -68,7 +68,7 @@ export default function Hero() {
               <li><a href="#contact" onClick={closeMenu}>Contact</a></li>
             </ul>
             <a 
-              href="https://drive.google.com/file/d/1tf2ay1gwmWUxdoCVNFECCFGdRL_qZs-t/view?usp=sharing" 
+              href="https://drive.google.com/file/d/1o559yM82FpucR8gl0syKIJdhjqsHxtBW/view?usp=sharing" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="btn resume mobile-resume" 
